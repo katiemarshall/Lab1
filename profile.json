@@ -8,71 +8,13 @@
 
   "posts" : [
     {
-      "Update 1" : "dwdadawdad"
+      "Status 1" : "Jimmy Johns for dinner tonight!"
     },
     {
-      "Update 2" : "dwdadawdad"
+      "Status 2" : "Josh is my bestie for life"
     },
     {
-      "Update 3" : "dwdadawdad"
+      "Status 3" : "I love monkeys"
     }
   ]
-
-  "first_name" : "Katie",
-  "last_name" : "Marshall",
-  "displayHandle" : "katiemarshall",
-  "active" : true,
-  "followers" : 1132,
-  "age" : 20,
-
-  "posts" : [
-    {
-      "Update 1" : "dwdadawdad"
-    },
-    {
-      "Update 2" : "dwdadawdad"
-    },
-    {
-      "Update 3" : "dwdadawdad"
-    }
-  ],
-
-  "first_name" : "Katie",
-  "last_name" : "Marshall",
-  "displayHandle" : "katiemarshall",
-  "active" : true,
-  "followers" : 1132,
-  "age" : 20,
-
-  "posts" : [
-    {
-      "Update 1" : "dwdadawdad"
-    },
-    {
-      "Update 2" : "dwdadawdad"
-    },
-    {
-      "Update 3" : "dwdadawdad"
-    }
-  ],
-
-  "first_name" : "Katie",
-  "last_name" : "Marshall",
-  "displayHandle" : "katiemarshall",
-  "active" : true,
-  "followers" : 1132,
-  "age" : 20,
-
-  "posts" : [
-    {
-      "Update 1" : "dwdadawdad"
-    },
-    {
-      "Update 2" : "dwdadawdad"
-    },
-    {
-      "Update 3" : "dwdadawdad"
-    }
-  ]
-
 }
