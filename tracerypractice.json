@@ -1,0 +1,60 @@
+{
+	"name": [
+		"David",
+		"Ashley",
+		"Josh",
+		"Lauren",
+		"Steven",
+		"Emily"
+	],
+	"occupation": [
+		"nurse",
+		"engineer",
+		"teacher",
+		"bus driver",
+		"pilot",
+		"cashier"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #shocking# #promotion#. This #opportunity# could #change# their #future#!"
+	],
+	"always": [
+		"never",
+		"seriously",
+		"continually",
+		"actually"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"predicting",
+		"envisioning"
+	],
+	"promotion": [
+		"pay increase",
+		"raise",
+		"breakthrough"
+	],
+	"shocking": [
+		"surprising",
+		"astounding",
+		"outrageous"
+	],
+	"opportunity": [
+		"chance",
+		"outcome",
+		"advance",
+		"development"
+	],
+	"change": [
+		"alter",
+		"shift",
+		"switch"
+	],
+	"future": [
+		"career",
+		"path",
+		"year",
+		"course"
+	]
+}
